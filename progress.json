@@ -1,0 +1,54 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769068952.613032,
+    "completed_at": 1769068954.242991,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1769279108.442807,
+    "completed_at": 1769279109.915241,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1769279066.081651,
+    "completed_at": 1769279069.229455,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769068490.733548,
+    "completed_at": 1769068492.13711,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769279133.068305,
+    "completed_at": 1769279134.360435,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1769279220.0978,
+    "completed_at": 1769279222.552852,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
