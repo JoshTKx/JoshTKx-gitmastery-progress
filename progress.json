@@ -104,5 +104,14 @@
       "You still have uncommitted changes. Commit them first on the appropriate branch first!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "side-track",
+    "started_at": 1769592048.629424,
+    "completed_at": 1769592052.636873,
+    "comments": [
+      "You aren't currently on the main branch. Checkout to that branch and try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
