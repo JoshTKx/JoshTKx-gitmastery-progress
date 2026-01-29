@@ -250,5 +250,14 @@
       "Good job performing a merge squash!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1769670894.612826,
+    "completed_at": 1769670897.507877,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
   }
 ]
