@@ -222,5 +222,15 @@
       "You have successfully undone the merge of branch 'others'."
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1769670455.095016,
+    "completed_at": 1769670458.62864,
+    "comments": [
+      "Answer for Which numbers are present in stream-1 but not in stream-2? is empty.",
+      "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
+    ],
+    "status": "Incomplete"
   }
 ]
